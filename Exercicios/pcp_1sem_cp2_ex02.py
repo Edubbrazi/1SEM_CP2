@@ -24,4 +24,4 @@ else:
     if a == b == c:
         print("\nTriangulo equilatero")
     elif a == b or b == c or a == c:
-        print("\nTriangulo isoceles")
+        print("\nTriangulo isosceles")
